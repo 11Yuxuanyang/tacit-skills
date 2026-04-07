@@ -11,7 +11,7 @@
 这是一版适合发 X 的长线程母稿。核心目标有三个：
 
 - 讲清楚 Polanyi 悖论和 AI skill learning 的关系
-- 把 `Tacit Skills` 放进一个更大的叙事里
+- 把 `Polanyi Stack` 放进一个更大的叙事里
 - 让读者自然过渡到 repo，而不是看完觉得你只是在推链接
 
 ---
@@ -208,7 +208,7 @@ AI 已经能从大量示例里吸收一部分隐性模式，
 
 这也是我做这个 repo 的原因：
 
-**Tacit Skills**
+**Polanyi Stack**
 
 它想解决的不是“怎么把 prompt 写得更花”。
 
@@ -220,7 +220,7 @@ AI 已经能从大量示例里吸收一部分隐性模式，
 
 repo 在这：
 
-https://github.com/11Yuxuanyang/tacit-skills
+https://github.com/11Yuxuanyang/polanyi-stack
 
 **14/**
 
@@ -260,16 +260,16 @@ AI 这一轮最有意思的地方，可能不是模型会了多少，
 
 ### 结尾 B：偏 repo 导流
 
-我把这套东西整理成了一个开源 repo，叫 `Tacit Skills`。
+我把这套东西整理成了一个开源 repo，叫 `Polanyi Stack`。
 
 里面不是空谈 tacit knowledge，
 而是直接把它往 agent、skill、onboarding 和训练系统上落。
 
 repo:
-https://github.com/11Yuxuanyang/tacit-skills
+https://github.com/11Yuxuanyang/polanyi-stack
 
 文档站：
-https://11yuxuanyang.github.io/tacit-skills/
+https://11yuxuanyang.github.io/polanyi-stack/
 
 ### 结尾 C：偏互动
 

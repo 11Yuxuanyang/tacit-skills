@@ -2,7 +2,7 @@
 
 ## Project
 
-Tacit Skills is an open-source framework for converting tacit knowledge, expert judgment, and Michael Polanyi style tacit knowing into reusable AI agents, Codex skills, and training workflows.
+Polanyi Stack is an open-source framework for converting tacit knowledge, expert judgment, and Michael Polanyi style tacit knowing into reusable AI agents, Codex skills, and training workflows.
 
 ## Best Entry Points
 

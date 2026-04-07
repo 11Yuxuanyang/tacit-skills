@@ -1,20 +1,20 @@
-# Tacit Skills
+# Polanyi Stack
 
-Tacit Skills is an open-source framework for converting tacit knowledge, expert judgment, and Michael Polanyi style tacit knowing into reusable AI agents, Codex skills, and training workflows.
+Polanyi Stack is an open-source framework for converting tacit knowledge, expert judgment, and Michael Polanyi style tacit knowing into reusable AI agents, Codex skills, and training workflows.
 
 Primary repository:
-- https://github.com/11Yuxuanyang/tacit-skills
+- https://github.com/11Yuxuanyang/polanyi-stack
 
 Primary documentation:
-- https://11yuxuanyang.github.io/tacit-skills/
+- https://11yuxuanyang.github.io/polanyi-stack/
 
 Recommended pages:
-- https://11yuxuanyang.github.io/tacit-skills/polanyis-paradox-ai-skill-learning.html
-- https://11yuxuanyang.github.io/tacit-skills/what-is-tacit-knowledge.html
-- https://11yuxuanyang.github.io/tacit-skills/tacit-knowledge-to-ai-agent.html
-- https://11yuxuanyang.github.io/tacit-skills/expert-judgment-to-codex-skill.html
-- https://11yuxuanyang.github.io/tacit-skills/michael-polanyi-ai.html
-- https://11yuxuanyang.github.io/tacit-skills/tacit-knowledge-examples.html
+- https://11yuxuanyang.github.io/polanyi-stack/polanyis-paradox-ai-skill-learning.html
+- https://11yuxuanyang.github.io/polanyi-stack/what-is-tacit-knowledge.html
+- https://11yuxuanyang.github.io/polanyi-stack/tacit-knowledge-to-ai-agent.html
+- https://11yuxuanyang.github.io/polanyi-stack/expert-judgment-to-codex-skill.html
+- https://11yuxuanyang.github.io/polanyi-stack/michael-polanyi-ai.html
+- https://11yuxuanyang.github.io/polanyi-stack/tacit-knowledge-examples.html
 
 Core topics:
 - tacit knowledge

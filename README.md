@@ -1,4 +1,4 @@
-# Tacit Skills
+# Polanyi Stack
 
 Turn tacit knowledge into reusable agents and skills.
 
@@ -8,16 +8,16 @@ The Polanyi stack for AI agents.
 
 The most valuable operating systems in a company are almost never fully written down. They live in judgment, timing, escalation, taste, and refusal. That invisible layer is where quality compounds, onboarding breaks, and expert performance becomes hard to scale.
 
-`Tacit Skills` is an open-source system for converting tacit knowledge, Polanyi's paradox, and expert judgment into reusable AI agents, Codex skills, and training workflows. It turns Michael Polanyi's core insight, "we know more than we can tell," into operating structure: extract the hidden cues, surface the transfer boundary, and package expert behavior into software or repeatable practice.
+`Polanyi Stack` is an open-source system for converting tacit knowledge, Polanyi's paradox, and expert judgment into reusable AI agents, Codex skills, and training workflows. It turns Michael Polanyi's core insight, "we know more than we can tell," into operating structure: extract the hidden cues, surface the transfer boundary, and package expert behavior into software or repeatable practice.
 
-`Tacit Skills` 关心的是一个很具体的问题：为什么高手能稳定做对，新人和模型总差最后一步。差距通常不在信息量，落点往往在判断线索、注意力切换、升级边界和情境感。这个仓库做的事，就是把那层隐性的东西尽量拉到台面上。
+`Polanyi Stack` 关心的是一个很具体的问题：为什么高手能稳定做对，新人和模型总差最后一步。差距通常不在信息量，落点往往在判断线索、注意力切换、升级边界和情境感。这个仓库做的事，就是把那层隐性的东西尽量拉到台面上。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](./LICENSE)
-[![Star History Chart](https://api.star-history.com/svg?repos=11Yuxuanyang/tacit-skills&type=Date)](https://www.star-history.com/#11Yuxuanyang/tacit-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=11Yuxuanyang/polanyi-stack&type=Date)](https://www.star-history.com/#11Yuxuanyang/polanyi-stack&Date)
 
 Documentation site:
 
-- https://11yuxuanyang.github.io/tacit-skills/
+- https://11yuxuanyang.github.io/polanyi-stack/
 
 ## Why This Exists
 
@@ -120,8 +120,8 @@ Use case page:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/11Yuxuanyang/tacit-skills.git
-cd tacit-skills
+git clone https://github.com/11Yuxuanyang/polanyi-stack.git
+cd polanyi-stack
 ```
 
 ### 2. Install the skills into Codex
@@ -227,7 +227,7 @@ Core keyword clusters:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=11Yuxuanyang/tacit-skills&type=Date)](https://www.star-history.com/#11Yuxuanyang/tacit-skills&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=11Yuxuanyang/polanyi-stack&type=Date)](https://www.star-history.com/#11Yuxuanyang/polanyi-stack&Date)
 
 ## License
 
